@@ -1,0 +1,1 @@
+// Este seria o conteúdo do arquivo doom.js compilado com Emscripten.
